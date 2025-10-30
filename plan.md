@@ -1,10 +1,6 @@
-K? HO?CH H?C T?P C� NH�N
-Tu?nM?c ti�u c? th?Th?i gian d? ki?nGhi ch�1T?ng quan v? k? n?ng m?m 
-* Hi?u kh�i ni?m, ??c ?i?m, vai tr� c?a k? n?ng m?m. 
-* Ph�n bi?t k? n?ng c?ng v� k? n?ng m?m. 
-* Nh?n th?c t?m quan tr?ng c?a k? n?ng m?m trong h?c t?p v� ngh? nghi?p.6 gi?
-(3h l� thuy?t, 2h b�i t?p, 1h th?o lu?n nh�m)Ghi ch� h?c t?p trong notes/week1.md, l�m b�i luy?n t?p tr?c nghi?m.  2K? n?ng nh?n th?c b?n th�n v� ??nh h??ng ngh? nghi?p
-* X�c ??nh ?i?m m?nh, ?i?m y?u, gi� tr?, ?am m� c� nh�n.
-* Hi?u c�c giai ?o?n ph�t tri?n ngh? nghi?p v� l� thuy?t h??ng nghi?p.
-* Bi?t l?p k? ho?ch ngh? nghi?p 5 b??c.6 gi?
-(2h l� thuy?t, 2h b�i t?p t? ?�nh gi�, 2h th?o lu?n)Ho�n th�nh b?ng SWOT c� nh�n trong exercises/self-analysis.md.
+# Kế hoạch học tập
+
+| Tuần | Mục tiêu cụ thể | Thời gian dự kiến | Ghi chú |
+|------|-----------------|-------------------|---------|
+| Tuần 1 | - Hiểu khái niệm, đặc điểm, vai trò của kỹ năng mềm. <br> - Phân biệt kỹ năng cứng và kỹ năng mềm. <br> - Nhận thức tầm quan trọng của kỹ năng mềm trong học tập và nghề nghiệp. | 6 giờ (3h lý thuyết, 2h bài tập, 1h thảo luận nhóm) | Ghi chú học tập trong `notes/week1.md`, làm bài luyện tập trắc nghiệm. |
+| Tuần 2 | - Xác định điểm mạnh, điểm yếu, giá trị, đam mê cá nhân. <br> - Hiểu các giai đoạn phát triển nghề nghiệp và lý thuyết hướng nghiệp. <br> - Biết lập kế hoạch nghề nghiệp 5 bước. | 6 giờ (2h lý thuyết, 2h bài tập tự đánh giá, 2h thảo luận) | Hoàn thành bảng SWOT cá nhân trong `exercises/self-analysis.md` và đưa lên GitHub. |
